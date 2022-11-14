@@ -69,6 +69,8 @@ public class CSProdject extends World {
             for (int col = 0; col < 1000; col++) {
 
             }
+        }
+    }
 
             public void mysquare () {
                 plane.pausetime = 0;
@@ -85,8 +87,6 @@ public class CSProdject extends World {
 //        plane.move(50);
             }
         }
-    }
-}
 
 
 
